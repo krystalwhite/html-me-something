@@ -16,12 +16,14 @@ header {
   }
 
   h2 {
-      padding-left: 10px;
+      padding-left: 25px;
       color: black;
   }
 
   p {
-      margin-left: 50px;
+      margin-left: 75px;
+      margin-right: 75px;
+      text-align: justify;
   }
 
   img {
@@ -36,4 +38,8 @@ header {
 
   #end {
       text-align: right;
+  }
+
+  section {
+      padding-bottom: 0px;
   }
