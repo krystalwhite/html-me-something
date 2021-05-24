@@ -1,0 +1,39 @@
+header {
+    border: 10px solid darkcyan;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    background-color: cyan;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+    color: black;
+  }
+
+  body {
+      font-family: Verdana, sans-serif;
+      background-color: darkturquoise;
+      color: darkslategrey;
+  }
+
+  h2 {
+      padding-left: 10px;
+      color: black;
+  }
+
+  p {
+      margin-left: 50px;
+  }
+
+  img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+  }
+
+  p.caption {
+      text-align: center;
+  }
+
+  #end {
+      text-align: right;
+  }
