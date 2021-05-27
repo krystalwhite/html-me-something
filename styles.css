@@ -26,6 +26,17 @@ header {
       text-align: justify;
   }
 
+  nav ul {
+	text-align: center;
+	padding: 0;
+}
+
+nav ul li {
+	display: inline-block;
+	margin-right: 1em;
+	font-size: 0.75em;
+}
+
   img {
       display: block;
       margin-left: auto;
@@ -38,8 +49,4 @@ header {
 
   #end {
       text-align: right;
-  }
-
-  section {
-      padding-bottom: 0px;
   }
